@@ -1,0 +1,1 @@
+dotnet test -c Release --no-restore --logger trx --results-directory /artifacts/tests
